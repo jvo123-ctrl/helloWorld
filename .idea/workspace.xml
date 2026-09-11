@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Initial commit of main application file">
+    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Added code to demonstrate first code change.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,31 +39,31 @@
     &quot;assignee&quot;: &quot;jvo123-ctrl&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jvo123-ctrl/helloWorld.git&quot;,
-    &quot;accountId&quot;: &quot;0b26adc1-02d0-4524-b33d-ccf56295e467&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jvo123-ctrl/helloWorld",
+    "accountId": "0b26adc1-02d0-4524-b33d-ccf56295e467"
   }
-}</component>
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.6115229512299898" />
-      <entry key="MS500" value="3.7627154062568318" />
-      <entry key="S2" value="5.266725373574756" />
-      <entry key="S5" value="5.688835287820588" />
-      <entry key="S10" value="5.8412621577036745" />
-      <entry key="S30" value="5.946368611879806" />
-      <entry key="S60" value="5.973105178107856" />
-      <entry key="M2" value="5.997936787342227" />
-      <entry key="M5" value="6.71162654878895" />
-      <entry key="M10" value="9.006399147582535" />
-      <entry key="M15" value="10.98730412222301" />
-      <entry key="M30" value="14.490878414416965" />
-      <entry key="H1" value="17.225162190633462" />
-      <entry key="H2" value="18.957429215739364" />
-      <entry key="H4" value="19.936196364261157" />
-      <entry key="D1" value="20.816444764977327" />
-      <entry key="W1" value="20.97361985402813" />
+      <entry key="MS100" value="1.0316873530484911" />
+      <entry key="MS500" value="1.6193835801526253" />
+      <entry key="S2" value="3.543792117988094" />
+      <entry key="S5" value="6.437423070120975" />
+      <entry key="S10" value="8.896790211262095" />
+      <entry key="S30" value="13.681620965042734" />
+      <entry key="S60" value="17.853665906615035" />
+      <entry key="M2" value="21.512392481176953" />
+      <entry key="M5" value="25.122664405718748" />
+      <entry key="M10" value="28.45765042230614" />
+      <entry key="M15" value="30.823411467121126" />
+      <entry key="M30" value="34.79572672698357" />
+      <entry key="H1" value="37.83383660017625" />
+      <entry key="H2" value="39.74794261432751" />
+      <entry key="H4" value="40.827550610184616" />
+      <entry key="D1" value="41.79775237295755" />
+      <entry key="W1" value="41.97093459768281" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -85,23 +85,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.5044967142638022" />
-      <entry key="MS500" value="3.663360091668681" />
-      <entry key="S2" value="5.230844901035492" />
-      <entry key="S5" value="5.673319368691327" />
-      <entry key="S10" value="5.833297114724879" />
-      <entry key="S30" value="5.943666286607844" />
-      <entry key="S60" value="5.971748018158982" />
-      <entry key="M2" value="5.997256373784963" />
-      <entry key="M5" value="6.711345566148686" />
-      <entry key="M10" value="9.00624271957078" />
-      <entry key="M15" value="10.987189197004835" />
-      <entry key="M30" value="14.490810285356318" />
-      <entry key="H1" value="17.225123539800347" />
-      <entry key="H2" value="18.95740836181312" />
-      <entry key="H4" value="19.936185494256343" />
-      <entry key="D1" value="20.816442885846538" />
-      <entry key="W1" value="20.973619583845675" />
+      <entry key="MS100" value="0.9969715586082347" />
+      <entry key="MS500" value="1.6097946731061765" />
+      <entry key="S2" value="3.538953444102178" />
+      <entry key="S5" value="6.433723419944017" />
+      <entry key="S10" value="8.894053131879835" />
+      <entry key="S30" value="13.679321475032703" />
+      <entry key="S60" value="17.851645706580868" />
+      <entry key="M2" value="21.51097474498338" />
+      <entry key="M5" value="25.121951907044686" />
+      <entry key="M10" value="28.45725189170066" />
+      <entry key="M15" value="30.823128932613823" />
+      <entry key="M30" value="34.795571437988706" />
+      <entry key="H1" value="37.83375342005676" />
+      <entry key="H2" value="39.747899232628434" />
+      <entry key="H4" value="40.82752840602718" />
+      <entry key="D1" value="41.79774859458406" />
+      <entry key="W1" value="41.97093405592319" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -168,6 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1788560333005</updated>
       <workItem from="1788560334006" duration="2793000" />
+      <workItem from="1789150314455" duration="658000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of main application file">
       <option name="closed" value="true" />
@@ -177,13 +178,30 @@
       <option name="project" value="LOCAL" />
       <updated>1788561764263</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added code to demonstrate first code change.">
+      <option name="closed" value="true" />
+      <created>1789150466016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789150466016</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added code to demonstrate first code change.">
+      <option name="closed" value="true" />
+      <created>1789150689350</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789150689350</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added code to demonstrate first code change." />
     <MESSAGE value="Initial commit of main application file" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit of main application file" />
   </component>
