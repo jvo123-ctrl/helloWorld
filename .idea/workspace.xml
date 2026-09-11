@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Added code to demonstrate first code change.">
+    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Adding first HTML page with Hello World message.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,23 +48,23 @@
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0316873530484911" />
-      <entry key="MS500" value="1.6193835801526253" />
-      <entry key="S2" value="3.543792117988094" />
-      <entry key="S5" value="6.437423070120975" />
-      <entry key="S10" value="8.896790211262095" />
-      <entry key="S30" value="13.681620965042734" />
-      <entry key="S60" value="17.853665906615035" />
-      <entry key="M2" value="21.512392481176953" />
-      <entry key="M5" value="25.122664405718748" />
-      <entry key="M10" value="28.45765042230614" />
-      <entry key="M15" value="30.823411467121126" />
-      <entry key="M30" value="34.79572672698357" />
-      <entry key="H1" value="37.83383660017625" />
-      <entry key="H2" value="39.74794261432751" />
-      <entry key="H4" value="40.827550610184616" />
-      <entry key="D1" value="41.79775237295755" />
-      <entry key="W1" value="41.97093459768281" />
+      <entry key="MS100" value="1.0922353943504137" />
+      <entry key="MS500" value="1.9838249445001908" />
+      <entry key="S2" value="4.632658899434248" />
+      <entry key="S5" value="8.486012236423633" />
+      <entry key="S10" value="11.95794109960364" />
+      <entry key="S30" value="16.33363184083432" />
+      <entry key="S60" value="18.373494688966545" />
+      <entry key="M2" value="20.369840943559353" />
+      <entry key="M5" value="26.645629620364698" />
+      <entry key="M10" value="34.93870702608617" />
+      <entry key="M15" value="40.35299348095092" />
+      <entry key="M30" value="48.92382363510331" />
+      <entry key="H1" value="55.299484235601824" />
+      <entry key="H2" value="59.29501528462014" />
+      <entry key="H4" value="61.54896645362927" />
+      <entry key="D1" value="63.57686621328528" />
+      <entry key="W1" value="63.93918100643496" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -86,23 +86,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9969715586082347" />
-      <entry key="MS500" value="1.6097946731061765" />
-      <entry key="S2" value="3.538953444102178" />
-      <entry key="S5" value="6.433723419944017" />
-      <entry key="S10" value="8.894053131879835" />
-      <entry key="S30" value="13.679321475032703" />
-      <entry key="S60" value="17.851645706580868" />
-      <entry key="M2" value="21.51097474498338" />
-      <entry key="M5" value="25.121951907044686" />
-      <entry key="M10" value="28.45725189170066" />
-      <entry key="M15" value="30.823128932613823" />
-      <entry key="M30" value="34.795571437988706" />
-      <entry key="H1" value="37.83375342005676" />
-      <entry key="H2" value="39.747899232628434" />
-      <entry key="H4" value="40.82752840602718" />
-      <entry key="D1" value="41.79774859458406" />
-      <entry key="W1" value="41.97093405592319" />
+      <entry key="MS100" value="1.0617837018182417" />
+      <entry key="MS500" value="1.9722870987224013" />
+      <entry key="S2" value="4.618379709519136" />
+      <entry key="S5" value="8.472384684014436" />
+      <entry key="S10" value="11.948217885746404" />
+      <entry key="S30" value="16.329316659816204" />
+      <entry key="S60" value="18.37108191305733" />
+      <entry key="M2" value="20.368503334996443" />
+      <entry key="M5" value="26.644917147207114" />
+      <entry key="M10" value="34.938235768034865" />
+      <entry key="M15" value="40.35263196058647" />
+      <entry key="M30" value="48.923606847915245" />
+      <entry key="H1" value="55.29936270625703" />
+      <entry key="H2" value="59.29495041894175" />
+      <entry key="H4" value="61.54893286361709" />
+      <entry key="D1" value="63.576860441243504" />
+      <entry key="W1" value="63.93918017742044" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -114,26 +114,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Flask server.FlaskProject1.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Flask server.FlaskProject1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="FlaskProject1" type="Python.FlaskServer">
       <module name="helloWorld" />
@@ -169,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1788560333005</updated>
       <workItem from="1788560334006" duration="2793000" />
-      <workItem from="1789150314455" duration="658000" />
+      <workItem from="1789150314455" duration="1596000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of main application file">
       <option name="closed" value="true" />
@@ -195,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789150689350</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding first HTML page with Hello World message.">
+      <option name="closed" value="true" />
+      <created>1789151115307</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1789151115307</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding first HTML page with Hello World message.">
+      <option name="closed" value="true" />
+      <created>1789151278929</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1789151278929</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +221,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added code to demonstrate first code change." />
     <MESSAGE value="Initial commit of main application file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of main application file" />
+    <MESSAGE value="Adding first HTML page with Hello World message." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding first HTML page with Hello World message." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/helloWorld$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1788560653716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
