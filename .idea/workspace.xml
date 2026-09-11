@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Adding first HTML page with Hello World message." />
+    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Added new route for Hello HTML page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,23 +46,23 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0330256243038853" />
-      <entry key="MS500" value="1.9229564420802272" />
-      <entry key="S2" value="4.781055657363009" />
-      <entry key="S5" value="8.347093926373251" />
-      <entry key="S10" value="11.387246644101618" />
-      <entry key="S30" value="15.990733262890643" />
-      <entry key="S60" value="21.763145736886155" />
-      <entry key="M2" value="31.056552802438365" />
-      <entry key="M5" value="43.563532724901286" />
-      <entry key="M10" value="51.528049752125035" />
-      <entry key="M15" value="55.75202964004616" />
-      <entry key="M30" value="61.909506637485" />
-      <entry key="H1" value="66.26195798565696" />
-      <entry key="H2" value="68.922024790169" />
-      <entry key="H4" value="70.40338319449424" />
-      <entry key="D1" value="71.7253842805623" />
-      <entry key="W1" value="71.96055368862724" />
+      <entry key="MS100" value="1.013602352551502" />
+      <entry key="MS500" value="1.4243590221193265" />
+      <entry key="S2" value="2.5020169092569335" />
+      <entry key="S5" value="5.066149067858856" />
+      <entry key="S10" value="7.2587755551280155" />
+      <entry key="S30" value="9.523002110693445" />
+      <entry key="S60" value="10.22813120080363" />
+      <entry key="M2" value="10.605329456665215" />
+      <entry key="M5" value="10.872474552204723" />
+      <entry key="M10" value="12.326883988323656" />
+      <entry key="M15" value="16.00241336384866" />
+      <entry key="M30" value="29.616899979007037" />
+      <entry key="H1" value="47.34894900895903" />
+      <entry key="H2" value="62.04990323328464" />
+      <entry key="H4" value="71.59216587352795" />
+      <entry key="D1" value="80.95368203250678" />
+      <entry key="W1" value="82.70389551072742" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -84,23 +84,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0115427324809998" />
-      <entry key="MS500" value="1.9130426428472787" />
-      <entry key="S2" value="4.771776935339528" />
-      <entry key="S5" value="8.340438520230345" />
-      <entry key="S10" value="11.382837783243648" />
-      <entry key="S30" value="15.988738645707567" />
-      <entry key="S60" value="21.761785244649783" />
-      <entry key="M2" value="31.055524608975198" />
-      <entry key="M5" value="43.562909855430334" />
-      <entry key="M10" value="51.527669775277516" />
-      <entry key="M15" value="55.7517518252377" />
-      <entry key="M30" value="61.90934899142763" />
-      <entry key="H1" value="66.2618721189418" />
-      <entry key="H2" value="68.92197961609057" />
-      <entry key="H4" value="70.40335996956854" />
-      <entry key="D1" value="71.72538031350835" />
-      <entry key="W1" value="71.96055311944102" />
+      <entry key="MS100" value="0.9858853429179499" />
+      <entry key="MS500" value="1.4164829318985148" />
+      <entry key="S2" value="2.4985629273900183" />
+      <entry key="S5" value="5.063347739878567" />
+      <entry key="S10" value="7.256766025537888" />
+      <entry key="S30" value="9.522122444715793" />
+      <entry key="S60" value="10.227658680476889" />
+      <entry key="M2" value="10.605084452511733" />
+      <entry key="M5" value="10.872373909986363" />
+      <entry key="M10" value="12.326823152852134" />
+      <entry key="M15" value="16.002354447889868" />
+      <entry key="M30" value="29.6168356025362" />
+      <entry key="H1" value="47.34889342670697" />
+      <entry key="H2" value="62.04986553555576" />
+      <entry key="H4" value="71.59214376675308" />
+      <entry key="D1" value="80.95367781043922" />
+      <entry key="W1" value="82.70389489314364" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -315,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789154394680</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added new route for Hello HTML page.">
+      <option name="closed" value="true" />
+      <created>1789157227536</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1789157227536</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +333,8 @@
     <MESSAGE value="Initial commit of main application file" />
     <MESSAGE value="Added code to demonstrate first code change." />
     <MESSAGE value="Adding first HTML page with Hello World message." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding first HTML page with Hello World message." />
+    <MESSAGE value="Added new route for Hello HTML page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new route for Hello HTML page." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/helloWorld$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1788560653716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
