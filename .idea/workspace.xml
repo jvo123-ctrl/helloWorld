@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;app.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-    </list>
+    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Fixed a typo in About HTML page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,23 +50,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0020360659391427" />
-      <entry key="MS500" value="1.2895732016703567" />
-      <entry key="S2" value="1.7368902847294643" />
-      <entry key="S5" value="1.994585350160131" />
-      <entry key="S10" value="2.429634487570343" />
-      <entry key="S30" value="4.014495177756123" />
-      <entry key="S60" value="5.132755700630005" />
-      <entry key="M2" value="6.179906241293182" />
-      <entry key="M5" value="14.055676447635335" />
-      <entry key="M10" value="33.75163226271777" />
-      <entry key="M15" value="49.0397397502781" />
-      <entry key="M30" value="73.69169985150324" />
-      <entry key="H1" value="91.34829654867497" />
-      <entry key="H2" value="102.03029327287925" />
-      <entry key="H4" value="112.46207709668039" />
-      <entry key="D1" value="277.5847863796149" />
-      <entry key="W1" value="417.290734340211" />
+      <entry key="MS100" value="1.0794055952266064" />
+      <entry key="MS500" value="2.131158370649109" />
+      <entry key="S2" value="4.9927416454703595" />
+      <entry key="S5" value="8.436237980759318" />
+      <entry key="S10" value="11.407246211097005" />
+      <entry key="S30" value="14.711032290585285" />
+      <entry key="S60" value="15.790799552010023" />
+      <entry key="M2" value="16.378347214377833" />
+      <entry key="M5" value="16.954211531625887" />
+      <entry key="M10" value="20.9708012318773" />
+      <entry key="M15" value="28.939550040654684" />
+      <entry key="M30" value="53.447820278490425" />
+      <entry key="H1" value="81.25936836490098" />
+      <entry key="H2" value="102.5785720461021" />
+      <entry key="H4" value="119.99795875726808" />
+      <entry key="D1" value="290.5489683758773" />
+      <entry key="W1" value="433.4186353883802" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -91,23 +88,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0021810298175912062" />
-      <entry key="MS500" value="0.41642390997267265" />
-      <entry key="S2" value="1.3318749145864857" />
-      <entry key="S5" value="1.8066014101586678" />
-      <entry key="S10" value="2.3289322544050615" />
-      <entry key="S30" value="3.9758445195064342" />
-      <entry key="S60" value="5.111704532168946" />
-      <entry key="M2" value="6.167665677021531" />
-      <entry key="M5" value="14.040999242053221" />
-      <entry key="M10" value="33.72849526112565" />
-      <entry key="M15" value="49.01491029698964" />
-      <entry key="M30" value="73.67103633113715" />
-      <entry key="H1" value="91.33483132709105" />
-      <entry key="H2" value="102.0225890468129" />
-      <entry key="H4" value="112.45790377978935" />
-      <entry key="D1" value="277.58376628536297" />
-      <entry key="W1" value="417.29055283638604" />
+      <entry key="MS100" value="1.0498796305187887" />
+      <entry key="MS500" value="2.1018199280684584" />
+      <entry key="S2" value="4.826089078995164" />
+      <entry key="S5" value="8.281154521902435" />
+      <entry key="S10" value="11.303442527764693" />
+      <entry key="S30" value="14.66887535503674" />
+      <entry key="S60" value="15.768644967720165" />
+      <entry key="M2" value="16.366989608523408" />
+      <entry key="M5" value="16.949383594507268" />
+      <entry key="M10" value="20.96567465743218" />
+      <entry key="M15" value="28.93191438977463" />
+      <entry key="M30" value="53.43681316039183" />
+      <entry key="H1" value="81.24950521523877" />
+      <entry key="H2" value="102.57191527136114" />
+      <entry key="H4" value="119.9940394229579" />
+      <entry key="D1" value="290.5479469366853" />
+      <entry key="W1" value="433.4184519533472" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -178,7 +175,7 @@
       <workItem from="1788560334006" duration="4893000" />
       <workItem from="1789150055484" duration="87000" />
       <workItem from="1789150582866" duration="2270000" />
-      <workItem from="1789505829133" duration="11054000" />
+      <workItem from="1789505829133" duration="11737000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of main application file">
       <option name="closed" value="true" />
@@ -372,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790450185735</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Fixed a typo in About HTML page.">
+      <option name="closed" value="true" />
+      <created>1790452598839</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1790452598839</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +391,8 @@
     <MESSAGE value="Added new HTML file for About Me section." />
     <MESSAGE value="Added new route for About HTML page." />
     <MESSAGE value="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;app.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;app.py" />
+    <MESSAGE value="Fixed a typo in About HTML page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed a typo in About HTML page." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/helloWorld$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1790450791755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
