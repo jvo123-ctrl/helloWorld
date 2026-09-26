@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Added new route for Hello HTML page." />
+    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Added new route for Hello HTML page.">
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,25 +47,29 @@
     &quot;accountId&quot;: &quot;0b26adc1-02d0-4524-b33d-ccf56295e467&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.013602352551502" />
-      <entry key="MS500" value="1.4243590221193265" />
-      <entry key="S2" value="2.5020169092569335" />
-      <entry key="S5" value="5.066149067858856" />
-      <entry key="S10" value="7.2587755551280155" />
-      <entry key="S30" value="9.523002110693445" />
-      <entry key="S60" value="10.22813120080363" />
-      <entry key="M2" value="10.605329456665215" />
-      <entry key="M5" value="10.872474552204723" />
-      <entry key="M10" value="12.326883988323656" />
-      <entry key="M15" value="16.00241336384866" />
-      <entry key="M30" value="29.616899979007037" />
-      <entry key="H1" value="47.34894900895903" />
-      <entry key="H2" value="62.04990323328464" />
-      <entry key="H4" value="71.59216587352795" />
-      <entry key="D1" value="80.95368203250678" />
-      <entry key="W1" value="82.70389551072742" />
+      <entry key="MS100" value="1.0000000081215092" />
+      <entry key="MS500" value="1.0383110718948148" />
+      <entry key="S2" value="2.1200065043646203" />
+      <entry key="S5" value="3.8325794573339906" />
+      <entry key="S10" value="5.6825410573123945" />
+      <entry key="S30" value="9.465196519916622" />
+      <entry key="S60" value="12.739014954869916" />
+      <entry key="M2" value="18.814762992441153" />
+      <entry key="M5" value="31.711923938349926" />
+      <entry key="M10" value="41.09517122241369" />
+      <entry key="M15" value="45.30340865034579" />
+      <entry key="M30" value="50.22615681089891" />
+      <entry key="H1" value="52.997154386274616" />
+      <entry key="H2" value="54.54167896051981" />
+      <entry key="H4" value="60.17211172287959" />
+      <entry key="D1" value="222.10483250898548" />
+      <entry key="W1" value="359.8409483779387" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -84,23 +91,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9858853429179499" />
-      <entry key="MS500" value="1.4164829318985148" />
-      <entry key="S2" value="2.4985629273900183" />
-      <entry key="S5" value="5.063347739878567" />
-      <entry key="S10" value="7.256766025537888" />
-      <entry key="S30" value="9.522122444715793" />
-      <entry key="S60" value="10.227658680476889" />
-      <entry key="M2" value="10.605084452511733" />
-      <entry key="M5" value="10.872373909986363" />
-      <entry key="M10" value="12.326823152852134" />
-      <entry key="M15" value="16.002354447889868" />
-      <entry key="M30" value="29.6168356025362" />
-      <entry key="H1" value="47.34889342670697" />
-      <entry key="H2" value="62.04986553555576" />
-      <entry key="H4" value="71.59214376675308" />
-      <entry key="D1" value="80.95367781043922" />
-      <entry key="W1" value="82.70389489314364" />
+      <entry key="MS100" value="0.08537752372895525" />
+      <entry key="MS500" value="0.6481293248632091" />
+      <entry key="S2" value="1.9091994080286658" />
+      <entry key="S5" value="3.6234069078919657" />
+      <entry key="S10" value="5.49473479088859" />
+      <entry key="S30" value="9.328998357545123" />
+      <entry key="S60" value="12.628304442009334" />
+      <entry key="M2" value="18.7103400837469" />
+      <entry key="M5" value="31.622218788849658" />
+      <entry key="M10" value="41.03218882400441" />
+      <entry key="M15" value="45.255964354118575" />
+      <entry key="M30" value="50.19923802065538" />
+      <entry key="H1" value="52.9827947445108" />
+      <entry key="H2" value="54.5342584502756" />
+      <entry key="H4" value="60.16828590708801" />
+      <entry key="D1" value="222.1038994129573" />
+      <entry key="W1" value="359.8407804032609" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -112,27 +119,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Flask server.FlaskProject1.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Flask server.FlaskProject1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="FlaskProject1" type="Python.FlaskServer">
       <module name="helloWorld" />
@@ -170,6 +178,7 @@
       <workItem from="1788560334006" duration="4893000" />
       <workItem from="1789150055484" duration="87000" />
       <workItem from="1789150582866" duration="2270000" />
+      <workItem from="1789505829133" duration="8484000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of main application file">
       <option name="closed" value="true" />
@@ -323,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789157227536</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Added new route for Hello HTML page.">
+      <option name="closed" value="true" />
+      <created>1789157343028</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1789157343028</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
