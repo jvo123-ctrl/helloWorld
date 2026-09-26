@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Added new route for Hello HTML page.">
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;app.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,23 +53,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000081215092" />
-      <entry key="MS500" value="1.0383110718948148" />
-      <entry key="S2" value="2.1200065043646203" />
-      <entry key="S5" value="3.8325794573339906" />
-      <entry key="S10" value="5.6825410573123945" />
-      <entry key="S30" value="9.465196519916622" />
-      <entry key="S60" value="12.739014954869916" />
-      <entry key="M2" value="18.814762992441153" />
-      <entry key="M5" value="31.711923938349926" />
-      <entry key="M10" value="41.09517122241369" />
-      <entry key="M15" value="45.30340865034579" />
-      <entry key="M30" value="50.22615681089891" />
-      <entry key="H1" value="52.997154386274616" />
-      <entry key="H2" value="54.54167896051981" />
-      <entry key="H4" value="60.17211172287959" />
-      <entry key="D1" value="222.10483250898548" />
-      <entry key="W1" value="359.8409483779387" />
+      <entry key="MS100" value="1.0020360659391427" />
+      <entry key="MS500" value="1.2895732016703567" />
+      <entry key="S2" value="1.7368902847294643" />
+      <entry key="S5" value="1.994585350160131" />
+      <entry key="S10" value="2.429634487570343" />
+      <entry key="S30" value="4.014495177756123" />
+      <entry key="S60" value="5.132755700630005" />
+      <entry key="M2" value="6.179906241293182" />
+      <entry key="M5" value="14.055676447635335" />
+      <entry key="M10" value="33.75163226271777" />
+      <entry key="M15" value="49.0397397502781" />
+      <entry key="M30" value="73.69169985150324" />
+      <entry key="H1" value="91.34829654867497" />
+      <entry key="H2" value="102.03029327287925" />
+      <entry key="H4" value="112.46207709668039" />
+      <entry key="D1" value="277.5847863796149" />
+      <entry key="W1" value="417.290734340211" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -91,23 +91,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.08537752372895525" />
-      <entry key="MS500" value="0.6481293248632091" />
-      <entry key="S2" value="1.9091994080286658" />
-      <entry key="S5" value="3.6234069078919657" />
-      <entry key="S10" value="5.49473479088859" />
-      <entry key="S30" value="9.328998357545123" />
-      <entry key="S60" value="12.628304442009334" />
-      <entry key="M2" value="18.7103400837469" />
-      <entry key="M5" value="31.622218788849658" />
-      <entry key="M10" value="41.03218882400441" />
-      <entry key="M15" value="45.255964354118575" />
-      <entry key="M30" value="50.19923802065538" />
-      <entry key="H1" value="52.9827947445108" />
-      <entry key="H2" value="54.5342584502756" />
-      <entry key="H4" value="60.16828590708801" />
-      <entry key="D1" value="222.1038994129573" />
-      <entry key="W1" value="359.8407804032609" />
+      <entry key="MS100" value="0.0021810298175912062" />
+      <entry key="MS500" value="0.41642390997267265" />
+      <entry key="S2" value="1.3318749145864857" />
+      <entry key="S5" value="1.8066014101586678" />
+      <entry key="S10" value="2.3289322544050615" />
+      <entry key="S30" value="3.9758445195064342" />
+      <entry key="S60" value="5.111704532168946" />
+      <entry key="M2" value="6.167665677021531" />
+      <entry key="M5" value="14.040999242053221" />
+      <entry key="M10" value="33.72849526112565" />
+      <entry key="M15" value="49.01491029698964" />
+      <entry key="M30" value="73.67103633113715" />
+      <entry key="H1" value="91.33483132709105" />
+      <entry key="H2" value="102.0225890468129" />
+      <entry key="H4" value="112.45790377978935" />
+      <entry key="D1" value="277.58376628536297" />
+      <entry key="W1" value="417.29055283638604" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -178,7 +178,7 @@
       <workItem from="1788560334006" duration="4893000" />
       <workItem from="1789150055484" duration="87000" />
       <workItem from="1789150582866" duration="2270000" />
-      <workItem from="1789505829133" duration="8484000" />
+      <workItem from="1789505829133" duration="11054000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of main application file">
       <option name="closed" value="true" />
@@ -340,7 +340,39 @@
       <option name="project" value="LOCAL" />
       <updated>1789157343028</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added new HTML file for About Me section.">
+      <option name="closed" value="true" />
+      <created>1790449754453</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1790449754453</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added new route for About HTML page.">
+      <option name="closed" value="true" />
+      <created>1790449912462</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1790449912462</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added new route for About HTML page.">
+      <option name="closed" value="true" />
+      <created>1790450134751</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1790450134751</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;app.py">
+      <option name="closed" value="true" />
+      <created>1790450185735</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1790450185735</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,9 +383,12 @@
     <MESSAGE value="Added code to demonstrate first code change." />
     <MESSAGE value="Adding first HTML page with Hello World message." />
     <MESSAGE value="Added new route for Hello HTML page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new route for Hello HTML page." />
+    <MESSAGE value="Added new HTML file for About Me section." />
+    <MESSAGE value="Added new route for About HTML page." />
+    <MESSAGE value="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;app.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/main'&#10;&#10;# Conflicts:&#10;#&#9;app.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/helloWorld$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1788560653716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/helloWorld$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1790450791755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
