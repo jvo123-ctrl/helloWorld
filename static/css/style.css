@@ -1,0 +1,29 @@
+/* styles for the paragraph and header*/
+p {
+    color: midnightblue;
+    font-size: 14px;
+}
+h2 {
+    color: darkslategray;
+    font-size: 32px;
+}
+/* styles for the table*/
+table, td, th {
+    border-style: solid;
+    border-width: 3px;
+    border-color: darkgray;
+}
+/* this is id attribute style*/
+#special {
+    color: darkmagenta;
+    font-weight: bold;
+}
+/* class attribute style */
+.bold-red {
+    color: darkred;
+    font-weight: bold;
+}
+img.logo {
+   width: 267px;
+    height: 72px;
+}
