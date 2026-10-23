@@ -1,10 +1,9 @@
-<!-- base html template with all the header -->
 {% extends 'base.html' %}
+<!-- base html template with all the header -->
 
 {% block title %}Contact{% endblock %}
 
 {% block content %}
-    <div class="container mt-5">
 
 <!-- Upon submission, users will see the form and their responses-->
     {% if submitted %}
@@ -39,7 +38,7 @@
 
             <div class="mb-3">
                 <label for="phone" class="form-label">Phone Number</label>
-                <input type="tel" form-control" id="phone" name="phone">
+                <input type="tel" class ="form-control" id="phone" name="phone">
             </div>
 
             <div class="mb-3">
