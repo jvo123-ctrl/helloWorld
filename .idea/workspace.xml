@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="-Added new routes: favorite course, contact, and base&#10;-added in parameters with a URL for favorite course HTML page &#10;-added in Bootstrap for contact form HTML page and returning responses &#10;-added in Base HTML page to add jinja templates to favorite course and contact HTML pages">
+    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Update base and contact HTML pages based on HTML validator feedback">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,61 +54,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0799588709928987" />
-      <entry key="MS500" value="1.9553464421607116" />
-      <entry key="S2" value="4.496318376487437" />
-      <entry key="S5" value="9.550825506013016" />
-      <entry key="S10" value="16.399694449519103" />
-      <entry key="S30" value="33.90895682018536" />
-      <entry key="S60" value="48.98405361925752" />
-      <entry key="M2" value="65.04480663280881" />
-      <entry key="M5" value="83.10210942387913" />
-      <entry key="M10" value="96.52404732394334" />
-      <entry key="M15" value="108.50230776530843" />
-      <entry key="M30" value="152.87431176890863" />
-      <entry key="H1" value="246.05443914734963" />
-      <entry key="H2" value="366.0139151038053" />
-      <entry key="H4" value="472.149443723162" />
-      <entry key="D1" value="744.0789379406124" />
-      <entry key="W1" value="919.0932962874674" />
+      <entry key="MS100" value="1.0286163954363585" />
+      <entry key="MS500" value="1.8952174017801284" />
+      <entry key="S2" value="5.219743916557128" />
+      <entry key="S5" value="9.884698114589904" />
+      <entry key="S10" value="13.544249852110726" />
+      <entry key="S30" value="17.480399069030632" />
+      <entry key="S60" value="18.91619914871851" />
+      <entry key="M2" value="20.12548989019394" />
+      <entry key="M5" value="30.0974116457478" />
+      <entry key="M10" value="53.554798887717844" />
+      <entry key="M15" value="73.67769452504804" />
+      <entry key="M30" value="127.60842710892844" />
+      <entry key="H1" value="226.51643445607755" />
+      <entry key="H2" value="355.52105212408094" />
+      <entry key="H4" value="472.3840123268575" />
+      <entry key="D1" value="759.5232293219219" />
+      <entry key="W1" value="939.1098578615117" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="1.818889026870518E-269" />
-      <entry key="S10" value="4.264843522182858E-135" />
-      <entry key="S30" value="1.6216894839734255E-45" />
-      <entry key="S60" value="4.0270267497929575E-23" />
-      <entry key="M2" value="6.3542345778890344E-12" />
-      <entry key="M5" value="3.6853275527305E-5" />
-      <entry key="M10" value="0.01018854256287014" />
-      <entry key="M15" value="0.08799921838892331" />
-      <entry key="M30" value="0.9777126532236551" />
-      <entry key="H1" value="3.594865679646857" />
-      <entry key="H2" value="7.047384429577848" />
-      <entry key="H4" value="9.917262323401651" />
-      <entry key="D1" value="13.215377150197016" />
-      <entry key="W1" value="13.885050262331808" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="3.292490930962262E-163" />
+      <entry key="S30" value="6.905177749852789E-55" />
+      <entry key="S60" value="8.309752626420283E-28" />
+      <entry key="M2" value="2.886456613885155E-14" />
+      <entry key="M5" value="4.259874556302755E-6" />
+      <entry key="M10" value="0.0034639564410692916" />
+      <entry key="M15" value="0.04286660148424932" />
+      <entry key="M30" value="0.682387959229189" />
+      <entry key="H1" value="3.0032585871053996" />
+      <entry key="H2" value="6.441440394475019" />
+      <entry key="H4" value="9.481331164670474" />
+      <entry key="D1" value="13.116737109740352" />
+      <entry key="W1" value="13.870197180825286" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.04990150274364" />
-      <entry key="MS500" value="1.940984811463101" />
-      <entry key="S2" value="4.439724274439556" />
-      <entry key="S5" value="9.493595794709398" />
-      <entry key="S10" value="16.35785358953575" />
-      <entry key="S30" value="33.88610194194475" />
-      <entry key="S60" value="48.96673617348127" />
-      <entry key="M2" value="65.03188364508348" />
-      <entry key="M5" value="83.09448671088424" />
-      <entry key="M10" value="96.52919125521848" />
-      <entry key="M15" value="108.58553796954294" />
-      <entry key="M30" value="153.84245387858837" />
-      <entry key="H1" value="249.63260100816893" />
-      <entry key="H2" value="373.0440624284725" />
-      <entry key="H4" value="482.05401756375693" />
-      <entry key="D1" value="757.2911075454965" />
-      <entry key="W1" value="932.9778258991284" />
+      <entry key="MS100" value="1.014066820555033" />
+      <entry key="MS500" value="1.8875436751276342" />
+      <entry key="S2" value="5.1989769758059055" />
+      <entry key="S5" value="9.855190266642145" />
+      <entry key="S10" value="13.520846265880808" />
+      <entry key="S30" value="17.467942825815676" />
+      <entry key="S60" value="18.907251930204808" />
+      <entry key="M2" value="20.119438533969653" />
+      <entry key="M5" value="30.09355172487118" />
+      <entry key="M10" value="53.55493536656647" />
+      <entry key="M15" value="73.71713346924565" />
+      <entry key="M30" value="128.28356766352985" />
+      <entry key="H1" value="229.50545034006842" />
+      <entry key="H2" value="361.94659255839423" />
+      <entry key="H4" value="481.853140036581" />
+      <entry key="D1" value="772.6367706725326" />
+      <entry key="W1" value="952.9795332113083" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -182,7 +183,7 @@
       <workItem from="1789505829133" duration="24990000" />
       <workItem from="1790706639627" duration="25353000" />
       <workItem from="1792107287212" duration="598000" />
-      <workItem from="1792265372274" duration="8208000" />
+      <workItem from="1792265372274" duration="8842000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of main application file">
       <option name="closed" value="true" />
@@ -416,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792787032453</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Update base and contact HTML pages based on HTML validator feedback">
+      <option name="closed" value="true" />
+      <created>1792787966813</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1792787966813</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +444,8 @@
     <MESSAGE value="Add CSS styles to About HTML page." />
     <MESSAGE value="Added new route for about-css HTML page." />
     <MESSAGE value="-Added new routes: favorite course, contact, and base&#10;-added in parameters with a URL for favorite course HTML page &#10;-added in Bootstrap for contact form HTML page and returning responses &#10;-added in Base HTML page to add jinja templates to favorite course and contact HTML pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Added new routes: favorite course, contact, and base&#10;-added in parameters with a URL for favorite course HTML page &#10;-added in Bootstrap for contact form HTML page and returning responses &#10;-added in Base HTML page to add jinja templates to favorite course and contact HTML pages" />
+    <MESSAGE value="Update base and contact HTML pages based on HTML validator feedback" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update base and contact HTML pages based on HTML validator feedback" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/helloWorld$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1792787093917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
