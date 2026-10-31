@@ -4,13 +4,27 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="Updated Base HTML to fix contact page">
-      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="more updates to contact html based on HTML validator feedback">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instance/university.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/student_entry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/student_view_all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="7b087d3a-98b5-44b1-84f8-91dcac22962e" value="" />
+    </colors>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,60 +68,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000043029675" />
-      <entry key="S10" value="1.0002218976350945" />
-      <entry key="S30" value="1.3155788216724196" />
-      <entry key="S60" value="2.9826007888257697" />
-      <entry key="M2" value="6.734519005514989" />
-      <entry key="M5" value="18.04149443831489" />
-      <entry key="M10" value="39.80223222781471" />
-      <entry key="M15" value="60.35079629267813" />
-      <entry key="M30" value="116.06431645803067" />
-      <entry key="H1" value="216.90818648985058" />
-      <entry key="H2" value="350.42861735529266" />
-      <entry key="H4" value="473.2397967870221" />
-      <entry key="D1" value="769.2431340289014" />
-      <entry key="W1" value="951.5299232393579" />
+      <entry key="MS500" value="1.0000001613119596" />
+      <entry key="S2" value="1.1022828337733732" />
+      <entry key="S5" value="3.2285440680190636" />
+      <entry key="S10" value="8.146150028651938" />
+      <entry key="S30" value="17.632502842056564" />
+      <entry key="S60" value="21.88438034584551" />
+      <entry key="M2" value="25.651064921436436" />
+      <entry key="M5" value="35.57155872056076" />
+      <entry key="M10" value="55.64106329764019" />
+      <entry key="M15" value="75.72843539267112" />
+      <entry key="M30" value="131.51304978553847" />
+      <entry key="H1" value="232.92652698038782" />
+      <entry key="H2" value="368.4749868422404" />
+      <entry key="H4" value="494.1639788869995" />
+      <entry key="D1" value="794.5908782210154" />
+      <entry key="W1" value="978.237824767753" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="2.2535961198247357E-179" />
-      <entry key="S30" value="2.824611320881621E-60" />
-      <entry key="S60" value="1.6806605727299155E-30" />
-      <entry key="M2" value="1.298108495781685E-15" />
-      <entry key="M5" value="1.2318992578735692E-6" />
-      <entry key="M10" value="0.0018627802032754272" />
-      <entry key="M15" value="0.028347309662735826" />
-      <entry key="M30" value="0.5549166455191568" />
-      <entry key="H1" value="2.7082635589107347" />
-      <entry key="H2" value="6.116910015420945" />
-      <entry key="H4" value="9.239402046615965" />
-      <entry key="D1" value="13.060352716986268" />
-      <entry key="W1" value="13.861663838323405" />
+      <entry key="S10" value="2.0171994596298295E-187" />
+      <entry key="S30" value="5.864751491564863E-63" />
+      <entry key="S60" value="7.658178262820287E-32" />
+      <entry key="M2" value="2.770982110727545E-16" />
+      <entry key="M5" value="6.642082804470674E-7" />
+      <entry key="M10" value="0.0013678112133323002" />
+      <entry key="M15" value="0.023072157721113946" />
+      <entry key="M30" value="0.5006289202814903" />
+      <entry key="H1" value="2.5723793649333815" />
+      <entry key="H2" value="5.961480630538624" />
+      <entry key="H4" value="9.121261111388883" />
+      <entry key="D1" value="13.032370248624527" />
+      <entry key="W1" value="13.857417177565306" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.042393885232739736" />
-      <entry key="MS500" value="0.5314478371792766" />
-      <entry key="S2" value="0.8538177143912449" />
-      <entry key="S5" value="0.9387416053761637" />
-      <entry key="S10" value="0.969108612871263" />
-      <entry key="S30" value="1.305064651202057" />
-      <entry key="S60" value="2.977224472828474" />
-      <entry key="M2" value="6.73148660584794" />
-      <entry key="M5" value="18.039235387761284" />
-      <entry key="M10" value="39.801725077277105" />
-      <entry key="M15" value="60.37648760660321" />
-      <entry key="M30" value="116.61314365507066" />
-      <entry key="H1" value="219.6035080812669" />
-      <entry key="H2" value="356.530379268704" />
-      <entry key="H4" value="482.46728214196855" />
-      <entry key="D1" value="782.3003006172775" />
-      <entry key="W1" value="965.3910649809189" />
+      <entry key="MS100" value="0.9395227492140118" />
+      <entry key="MS500" value="0.98760102154161" />
+      <entry key="S2" value="1.09896866898861" />
+      <entry key="S5" value="3.2238137736615853" />
+      <entry key="S10" value="8.137476539549398" />
+      <entry key="S30" value="17.624422256193636" />
+      <entry key="S60" value="21.878871918537296" />
+      <entry key="M2" value="25.647406174344436" />
+      <entry key="M5" value="35.56903421123917" />
+      <entry key="M10" value="55.64001969828032" />
+      <entry key="M15" value="75.74889427093096" />
+      <entry key="M30" value="132.00795716885185" />
+      <entry key="H1" value="235.4864992993657" />
+      <entry key="H2" value="374.42164693733145" />
+      <entry key="H4" value="503.2734469769828" />
+      <entry key="D1" value="807.6200643789208" />
+      <entry key="W1" value="992.0947193243164" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -119,29 +133,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Flask server.FlaskProject1.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Flask server.FlaskProject1.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/Jennifer/PycharmProjects/FlaskProject1",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="FlaskProject1" type="Python.FlaskServer">
       <module name="helloWorld" />
@@ -182,7 +204,8 @@
       <workItem from="1789505829133" duration="24990000" />
       <workItem from="1790706639627" duration="25353000" />
       <workItem from="1792107287212" duration="598000" />
-      <workItem from="1792265372274" duration="9150000" />
+      <workItem from="1792265372274" duration="25585000" />
+      <workItem from="1793471073587" duration="2402000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of main application file">
       <option name="closed" value="true" />
@@ -432,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792788351811</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="more updates to contact html based on HTML validator feedback">
+      <option name="closed" value="true" />
+      <created>1792788758822</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1792788758822</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,7 +484,8 @@
     <MESSAGE value="-Added new routes: favorite course, contact, and base&#10;-added in parameters with a URL for favorite course HTML page &#10;-added in Bootstrap for contact form HTML page and returning responses &#10;-added in Base HTML page to add jinja templates to favorite course and contact HTML pages" />
     <MESSAGE value="Update base and contact HTML pages based on HTML validator feedback" />
     <MESSAGE value="Updated Base HTML to fix contact page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Base HTML to fix contact page" />
+    <MESSAGE value="more updates to contact html based on HTML validator feedback" />
+    <option name="LAST_COMMIT_MESSAGE" value="more updates to contact html based on HTML validator feedback" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/helloWorld$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1792787093917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
