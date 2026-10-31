@@ -49,6 +49,15 @@
         <br>{{ student['birth_date'].strftime('%m/%d/%Y') }}
     {% endif %}
   </div>
+<!-- adding in email field -->
+  <div class="col-md-4">
+    <label for="email" class="form-label"><strong>Email</strong></label>
+    {% if action and action in ['create', 'update'] %}
+    <input type="email" class="form-control" id="email" name="email" value="{{ student['email'] if student else '' }}" required>
+    {% else %}
+        <br>{{ student['email'] }}
+    {% endif %}
+  </div>
 
   <div class="col-md-4">
     <label for="major_id" class="form-label"><strong>Major</strong></label>

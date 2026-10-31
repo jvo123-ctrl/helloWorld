@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="more updates to contact html based on HTML validator feedback">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/instance/university.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student_entry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student_view_all.html" afterDir="false" />
+    <list default="true" id="c1ce12e8-20c7-41c7-a8a4-933d7fde94a6" name="Changes" comment="- Modified app.py and base.html files&#10;- added in python files, html files, and requirements page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/university.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/university.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/student_entry.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/student_entry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/student_view_all.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/student_view_all.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,61 +64,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000001613119596" />
-      <entry key="S2" value="1.1022828337733732" />
-      <entry key="S5" value="3.2285440680190636" />
-      <entry key="S10" value="8.146150028651938" />
-      <entry key="S30" value="17.632502842056564" />
-      <entry key="S60" value="21.88438034584551" />
-      <entry key="M2" value="25.651064921436436" />
-      <entry key="M5" value="35.57155872056076" />
-      <entry key="M10" value="55.64106329764019" />
-      <entry key="M15" value="75.72843539267112" />
-      <entry key="M30" value="131.51304978553847" />
-      <entry key="H1" value="232.92652698038782" />
-      <entry key="H2" value="368.4749868422404" />
-      <entry key="H4" value="494.1639788869995" />
-      <entry key="D1" value="794.5908782210154" />
-      <entry key="W1" value="978.237824767753" />
+      <entry key="MS100" value="1.0036446601231908" />
+      <entry key="MS500" value="1.3253354638604833" />
+      <entry key="S2" value="1.7552920595035832" />
+      <entry key="S5" value="1.9313834092724167" />
+      <entry key="S10" value="2.2798628496991364" />
+      <entry key="S30" value="3.524242966941245" />
+      <entry key="S60" value="5.031951150217034" />
+      <entry key="M2" value="8.244534999334657" />
+      <entry key="M5" value="15.622111281528962" />
+      <entry key="M10" value="24.359243155431795" />
+      <entry key="M15" value="33.23208091493078" />
+      <entry key="M30" value="65.64053043415399" />
+      <entry key="H1" value="148.05032055305995" />
+      <entry key="H2" value="295.8546925866371" />
+      <entry key="H4" value="463.1455807932276" />
+      <entry key="D1" value="845.9764477609172" />
+      <entry key="W1" value="1057.2601168484002" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="2.0171994596298295E-187" />
-      <entry key="S30" value="5.864751491564863E-63" />
-      <entry key="S60" value="7.658178262820287E-32" />
-      <entry key="M2" value="2.770982110727545E-16" />
-      <entry key="M5" value="6.642082804470674E-7" />
-      <entry key="M10" value="0.0013678112133323002" />
-      <entry key="M15" value="0.023072157721113946" />
-      <entry key="M30" value="0.5006289202814903" />
-      <entry key="H1" value="2.5723793649333815" />
-      <entry key="H2" value="5.961480630538624" />
-      <entry key="H4" value="9.121261111388883" />
-      <entry key="D1" value="13.032370248624527" />
-      <entry key="W1" value="13.857417177565306" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="3.971353851295975E-115" />
+      <entry key="S60" value="6.301877497039468E-58" />
+      <entry key="M2" value="2.513656703098018E-29" />
+      <entry key="M5" value="4.030632315670485E-12" />
+      <entry key="M10" value="3.3694623523954245E-6" />
+      <entry key="M15" value="4.208343464230471E-4" />
+      <entry key="M30" value="0.06761256580244372" />
+      <entry key="H1" value="0.9453459294703239" />
+      <entry key="H2" value="3.6139489036838817" />
+      <entry key="H4" value="7.101806313314768" />
+      <entry key="D1" value="12.49997273260441" />
+      <entry key="W1" value="13.775092637215607" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9395227492140118" />
-      <entry key="MS500" value="0.98760102154161" />
-      <entry key="S2" value="1.09896866898861" />
-      <entry key="S5" value="3.2238137736615853" />
-      <entry key="S10" value="8.137476539549398" />
-      <entry key="S30" value="17.624422256193636" />
-      <entry key="S60" value="21.878871918537296" />
-      <entry key="M2" value="25.647406174344436" />
-      <entry key="M5" value="35.56903421123917" />
-      <entry key="M10" value="55.64001969828032" />
-      <entry key="M15" value="75.74889427093096" />
-      <entry key="M30" value="132.00795716885185" />
-      <entry key="H1" value="235.4864992993657" />
-      <entry key="H2" value="374.42164693733145" />
-      <entry key="H4" value="503.2734469769828" />
-      <entry key="D1" value="807.6200643789208" />
-      <entry key="W1" value="992.0947193243164" />
+      <entry key="MS100" value="0.017701310709193924" />
+      <entry key="MS500" value="0.45055993861765725" />
+      <entry key="S2" value="1.0732541369816841" />
+      <entry key="S5" value="1.5363152413235546" />
+      <entry key="S10" value="2.0392331342280965" />
+      <entry key="S30" value="3.415446240449328" />
+      <entry key="S60" value="4.967016059426188" />
+      <entry key="M2" value="8.204691410496794" />
+      <entry key="M5" value="15.60088454653863" />
+      <entry key="M10" value="24.345802880006598" />
+      <entry key="M15" value="33.221903703655116" />
+      <entry key="M30" value="65.70049389517324" />
+      <entry key="H1" value="148.98696489395454" />
+      <entry key="H2" value="299.45734805693326" />
+      <entry key="H4" value="470.23698108032767" />
+      <entry key="D1" value="858.4731518477196" />
+      <entry key="W1" value="1071.0346590336262" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -138,6 +135,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Flask server.FlaskProject1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.create_db.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -164,7 +162,32 @@
       <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Flask server.FlaskProject1">
+    <configuration name="create_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="helloWorld" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="FlaskProject1" type="Python.FlaskServer">
       <module name="helloWorld" />
       <option name="target" value="$PROJECT_DIR$/app.py" />
@@ -183,6 +206,11 @@
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.create_db" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -205,7 +233,7 @@
       <workItem from="1790706639627" duration="25353000" />
       <workItem from="1792107287212" duration="598000" />
       <workItem from="1792265372274" duration="25585000" />
-      <workItem from="1793471073587" duration="2402000" />
+      <workItem from="1793471073587" duration="4908000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of main application file">
       <option name="closed" value="true" />
@@ -463,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792788758822</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="- Modified app.py and base.html files&#10;- added in python files, html files, and requirements page">
+      <option name="closed" value="true" />
+      <created>1793474365947</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1793474365947</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,9 +521,11 @@
     <MESSAGE value="Update base and contact HTML pages based on HTML validator feedback" />
     <MESSAGE value="Updated Base HTML to fix contact page" />
     <MESSAGE value="more updates to contact html based on HTML validator feedback" />
-    <option name="LAST_COMMIT_MESSAGE" value="more updates to contact html based on HTML validator feedback" />
+    <MESSAGE value="- Modified app.py and base.html files&#10;- added in python files, html files, and requirements page" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Modified app.py and base.html files&#10;- added in python files, html files, and requirements page" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/helloWorld$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1792787093917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/helloWorld$FlaskProject1.coverage" NAME="FlaskProject1 Coverage Results" MODIFIED="1793476975179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/helloWorld$create_db.coverage" NAME="create_db Coverage Results" MODIFIED="1793476931038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
