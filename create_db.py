@@ -20,7 +20,7 @@ with app.app_context():
         {'student_id': '1', 'first_name': 'Robert', 'last_name':'Smith', 'major_id':3,
             'birth_date': dt.datetime(2007, 6, 1), 'is_honors':1, 'email': 'robert.smith@umd.edu'},
         {'student_id': '2', 'first_name': 'Leo', 'last_name': 'Van Munching', 'major_id':6,
-         'birth_date': dt.datetime(2008, 3, 24), 'is_honors': 0, 'email': 'leo.vanmuching.edu'},
+         'birth_date': dt.datetime(2008, 3, 24), 'is_honors': 0, 'email': 'leo.vanmunching@umd.edu'},
     ]
 
     for each_student in students:
